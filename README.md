@@ -16,9 +16,6 @@ Estou atualmente estudando modelagem de dados
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamtwobe&layout=compact&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Lian-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Lian-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Lian-SQLServer" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
   <img align="right" alt="Lian-img" height="120" width="120" src="https://cdn.discordapp.com/attachments/852947116820267098/1179791924660555776/output-onlinegiftools.gif?ex=657b11da&is=65689cda&hm=04c5bf827201002c76916cd53034337d9ea0d8b94ea285addc02d5638c33d3a1&">
 </div>
 
